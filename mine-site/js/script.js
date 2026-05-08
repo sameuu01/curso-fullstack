@@ -1,15 +1,3 @@
-let valor = 7;
-
-console.log("Agora vale: ", valor)
-
-valor = valor - 1
-
-console.log(valor)
-
-valor--;
-
-console.log("Agora vale: ", valor);
-
-valor -= 10;
-
-console.log("Agora vale: ", valor);
+for(let i=0; i <=5; i++) {
+console.log("O valor de i, vale: " + i)
+}
