@@ -141,12 +141,27 @@ form {
   padding: 30px;
   border-radius: 12px;
   width: 350px;
+  margin: 0 auto;
 }
 
 form .form-group {
   display: flex;
   flex-direction: column;
   margin-bottom: 20px;
+}
+
+.paginaContato h1 {
+    color: #191970;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.paginaCadastro h1 {
+    color: #191970;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 form label {
